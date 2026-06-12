@@ -1,163 +1,205 @@
-<!-- ======= ANIMATED HEADER ======= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=Vaishnav%20B&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cyber%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishnav%20B&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20·%20Cyber%20Enthusiast%20·%20Open%20Source%20Contributor&descSize=16&descAlignY=55&descColor=ffffff" />
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🌐+Full-Stack+Web+Developer;🔐+Cybersecurity+%26+Networking+Enthusiast;🐍+Python+Automation+Engineer;💻+BCA+%40+Amrita+Vishwa+Vidyapeetham;🚀+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/vaishnav-b-612123218/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/vaishnavbsree">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/v_a_i_sh_n_a_v">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/adolphus1010">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://1tzvaish.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=1tzvaish&style=flat-square&color=blueviolet&label=visitors" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-b-612123218/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaishnavbsree)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v_a_i_sh_n_a_v)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/adolphus1010)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41.svg?style=for-the-badge&logo=firefox&logoColor=black)](https://1tzvaish.github.io)
-[![Profile Views](https://komarev.com/ghpvc/?username=1tzvaish&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge)](https://github.com/1tzvaish)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+interfaces+people+love+to+use+✦;Securing+networks+one+port+at+a+time+🔐;Python+scripts+that+actually+work+🐍;BCA+%40+Amrita+Vishwa+Vidyapeetham+📚;Always+learning%2C+always+shipping+🚀" />
 </div>
 
 ---
 
-<!-- ======= ABOUT ======= -->
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+## 👾 About Me
 
-### `> whoami`
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkZmFzeXo2ZGZ4eGZkY3lxcnFvcXNhN2FpbHk2Y3g0eDZxbjhkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-```python
-class Vaishnav:
+Hey there! I'm **Vaishnav** — a passionate developer from **Kerala, India** 🇮🇳, currently pursuing my **BCA at Amrita Vishwa Vidyapeetham, Kochi** with my sights set on MCA.
 
-    name        = "Vaishnav B"
-    alias       = "1tzvaish"
-    college     = "Amrita Vishwa Vidyapeetham, Kochi"
-    degree      = "BCA → MCA"
-    location    = "Kerala, India 🇮🇳"
+I love crafting clean, functional web experiences and digging deep into how systems work — especially when it comes to networks and security. Whether it's building a slick frontend with React, automating boring tasks with Python, or scanning ports for fun, I'm always shipping something.
 
-    focus       = [
-                    "Full-Stack Web Development",
-                    "Cybersecurity & Networking",
-                    "Python Automation",
-                  ]
+- 🔭 &nbsp;Currently building **Python automation tools & web projects**
+- 🌱 &nbsp;Learning **React ecosystem, Ethical Hacking & Cloud basics**
+- 💬 &nbsp;Ask me about **Python, Web Dev, Linux, Networking**
+- 🤝 &nbsp;Open to **collabs, open-source & internship opportunities**
+- ⚡ &nbsp;*"Hack the process. Build the future. Leave no bugs behind."*
 
-    stack       = {
-                    "languages" : ["Python", "C", "C++", "Java", "JS"],
-                    "frontend"  : ["HTML", "CSS", "JavaScript", "React"],
-                    "tools"     : ["Linux", "Git", "Bash", "VS Code"],
-                    "interests" : ["Ethical Hacking", "Network Security"],
-                  }
-
-    motto       = "Hack the process. Build the future. Leave no bugs behind."
-    status      = "Open to collaborations & opportunities 🚀"
-```
-
-<br clear="right"/>
+<br clear="right" />
 
 ---
 
-<!-- ======= TECH STACK ======= -->
-### `> ls ~/tech-stack`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🌐 Frontend & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend**
 
-#### 🛠️ Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00FF41?style=for-the-badge&logo=cisco&logoColor=black)
 
 </div>
 
 ---
 
-<!-- ======= PROJECTS ======= -->
-### `> cat ~/projects.log`
+## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🚀 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|:---|:---|:---|:---|
-| 🗂️ **FileManager** | Python utility for smart file organization & automation | `Python` | [→ View](https://github.com/1tzvaish/FileManager) |
-| 🔍 **Port Scanner** | Multithreaded network port scanner for recon & security | `Python` `Threading` `Sockets` | [→ View](https://github.com/1tzvaish/multithreaded-port-scanner) |
-| 🌐 **Portfolio** | Personal dev portfolio with responsive design | `HTML` `CSS` `JS` | [→ Live](https://1tzvaish.github.io) |
+### 🗂️ FileManager
+A smart Python utility to organise, search and manage files on your system with clean automation logic.
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1tzvaish/FileManager)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Port Scanner
+A blazing-fast multithreaded port scanner built for network recon and security research.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Networking](https://img.shields.io/badge/-Networking-00897B?style=flat-square&logo=cisco&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1tzvaish/multithreaded-port-scanner)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects, skills and my developer journey. Built with pure HTML/CSS/JS.
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Live](https://img.shields.io/badge/Visit%20Live-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://1tzvaish.github.io)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Coming Soon...
+Always working on something new. Follow along to stay updated!
+
+[![Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1tzvaish)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-<!-- ======= STATS ======= -->
-### `> git log --stat`
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1tzvaish&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=1tzvaish&theme=radical&hide_border=true&background=0d0d0d&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=1tzvaish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=1tzvaish&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tzvaish&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=1tzvaish&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tzvaish&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=1tzvaish&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
----
-
-<!-- ======= HOBBIES ======= -->
-### `> cat ~/hobbies.txt`
-
 <div align="center">
-
-🚴 **Cycling** &nbsp;&nbsp;|&nbsp;&nbsp; ✈️ **Travelling** &nbsp;&nbsp;|&nbsp;&nbsp; 🎵 **Listening to Music**
-
-> *"The world is best explored on two wheels, one playlist at a time."*
-
+  <img src="https://github-profile-trophy.vercel.app/?username=1tzvaish&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
 
-<!-- ======= CURRENTLY LEARNING ======= -->
-### `> tail -f ~/learning.log`
+## 🎯 What I'm Up To
 
-```bash
-[ACTIVE]   ██████████░░░░░░░░░░  React & Modern JS Ecosystem
-[ACTIVE]   ████████░░░░░░░░░░░░  Ethical Hacking & Penetration Testing
-[ACTIVE]   ██████░░░░░░░░░░░░░░  Network Security & Protocols
-[QUEUED]   ████░░░░░░░░░░░░░░░░  Cloud Infrastructure (AWS / Azure)
-[QUEUED]   ██░░░░░░░░░░░░░░░░░░  Docker & DevOps Fundamentals
+```text
+🌐  Full-Stack Web Dev     ████████████░░░░░░░░   60%
+⚛️  React Ecosystem        ████████░░░░░░░░░░░░   40%
+🔐  Ethical Hacking        ██████░░░░░░░░░░░░░░   30%
+☁️  Cloud & DevOps         ████░░░░░░░░░░░░░░░░   20%
+🐧  Linux & Bash           █████████████░░░░░░░   65%
 ```
 
 ---
 
-<!-- ======= SNAKE ======= -->
-### `> ./contribution-snake --animate`
+## 🎨 When I'm Not Coding
+
+<div align="center">
+
+| 🚴 Cycling | ✈️ Travelling | 🎵 Music |
+|:---:|:---:|:---:|
+| Exploring roads & trails | Chasing new places & cultures | Lo-fi to fuel late night sessions |
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-<!-- ======= FOOTER ======= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=120&section=footer&text=Let's+Build+Something+Awesome&fontSize=20&fontColor=00FF41&fontAlignY=65" />
+### 💬 Let's connect and build something amazing together!
+
+<a href="https://www.linkedin.com/in/vaishnav-b-612123218/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
