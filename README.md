@@ -5,28 +5,36 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaishnav-b-612123218/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/vaishnav-b-612123218/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" title="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/vaishnavbsree" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="Twitter" title="Twitter / X" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/v_a_i_sh_n_a_v" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" title="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/adolphus1010" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="48" alt="Discord" title="Discord" />
+  </a>&nbsp;&nbsp;
+  <a href="https://1tzvaish.github.io" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="48" alt="Portfolio" title="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" title="Email" />
   </a>
-  <a href="https://twitter.com/vaishnavbsree">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/v_a_i_sh_n_a_v">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/adolphus1010">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://1tzvaish.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=1tzvaish&style=flat-square&color=blueviolet&label=visitors" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=1tzvaish&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+interfaces+people+love+to+use+✦;Securing+networks+one+port+at+a+time+🔐;Python+scripts+that+actually+work+🐍;BCA+%40+Amrita+Vishwa+Vidyapeetham+📚;Always+learning%2C+always+shipping+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+interfaces+people+love+to+use;Securing+networks+one+port+at+a+time+%F0%9F%94%90;Python+scripts+that+actually+work+%F0%9F%90%8D;BCA+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%93%9A;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -54,26 +62,20 @@ I love crafting clean, functional web experiences and digging deep into how syst
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,java&perline=5" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<br/><br/>
 
 **Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react&perline=5" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<br/><br/>
 
 **Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash&perline=5" />
 
 </div>
 
@@ -176,13 +178,11 @@ Always working on something new. Follow along to stay updated!
 
 ---
 
-## 🐍 Contribution Graph
+## 📅 Contribution Calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1tzvaish/1tzvaish/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://ghchart.rshah.org/6366f1/1tzvaish" alt="1tzvaish's GitHub Contribution Chart" width="100%" />
+</div>
 
 ---
 
