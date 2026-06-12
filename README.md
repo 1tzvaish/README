@@ -42,20 +42,27 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkZmFzeXo2ZGZ4eGZkY3lxcnFvcXNhN2FpbHk2Y3g0eDZxbjhkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkZmFzeXo2ZGZ4eGZkY3lxcnFvcXNhN2FpbHk2Y3g0eDZxbjhkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+<div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellpadding="12" cellspacing="0">
 <tr>
-<td>
+<td align="center" width="50%">
 
-| | |
-|---|---|
-| 🧑‍💻 **Name** | Vaishnav B |
-| 🏷️ **Alias** | 1tzvaish |
-| 🎓 **College** | Amrita Vishwa Vidyapeetham, Kochi |
-| 📚 **Degree** | BCA &nbsp;➜&nbsp; MCA *(planned)* |
-| 📍 **Location** | Kerala, India 🇮🇳 |
-| 💼 **Status** | Open to Internships & Collabs ✅ |
+🧑‍💻 &nbsp; **Vaishnav B** &nbsp; · &nbsp; `1tzvaish`
+
+🎓 &nbsp; BCA @ **Amrita Vishwa Vidyapeetham, Kochi**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aiming for **MCA** next
+
+📍 &nbsp; Kerala, India 🇮🇳
+💼 &nbsp; Open to **Internships & Collabs** ✅
+
+</td>
+<td align="center" width="50%">
+
+🔭 &nbsp; Building **Python tools** & **React apps**
+🌱 &nbsp; Learning **Ethical Hacking** & **Cloud**
+🔐 &nbsp; Passionate about **Cybersecurity**
+💬 &nbsp; Ask me about **Python · Web Dev · Linux**
 
 </td>
 </tr>
@@ -63,13 +70,9 @@
 
 <br/>
 
-🔭 &nbsp; Currently building **Python automation tools** & **React web apps**
-🌱 &nbsp; Exploring **Ethical Hacking**, **React ecosystem** & **Cloud basics**
-🔐 &nbsp; Passionate about **Cybersecurity** & **Network Security**
-💬 &nbsp; Ask me about **Python · Web Dev · Linux · Networking**
-⚡ &nbsp; *"Hack the process. Build the future. Leave no bugs behind."*
+> *⚡ "Hack the process. Build the future. Leave no bugs behind."*
 
-<br clear="right"/>
+</div>
 
 <br clear="right"/>
 
