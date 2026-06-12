@@ -12,21 +12,15 @@
 
 <!-- SOCIAL LINKS WITH SKILLICONS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaishnav-b-612123218/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/vaishnavbsree" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" title="Twitter / X"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/v_a_i_sh_n_a_v" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" title="Instagram"/>
-  </a>&nbsp;
-  <a href="https://discord.com/users/adolphus1010" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord"/>
-  </a>&nbsp;
-  <a href="https://1tzvaish.github.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="45" title="Portfolio"/>
-  </a>
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td align="center"><a href="https://www.linkedin.com/in/vaishnav-b-612123218/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/></a></td>
+<td align="center"><a href="https://twitter.com/vaishnavbsree" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45" title="Twitter / X"/></a></td>
+<td align="center"><a href="https://instagram.com/v_a_i_sh_n_a_v" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" title="Instagram"/></a></td>
+<td align="center"><a href="https://discord.com/users/adolphus1010" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45" title="Discord"/></a></td>
+<td align="center"><a href="https://1tzvaish.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="45" title="Portfolio"/></a></td>
+</tr>
+</table>
 </div>
 
 <br/>
@@ -48,26 +42,34 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkZmFzeXo2ZGZ4eGZkY3lxcnFvcXNhN2FpbHk2Y3g0eDZxbjhkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-```yaml
-Name     : Vaishnav B
-Alias    : 1tzvaish
-College  : Amrita Vishwa Vidyapeetham, Kochi
-Degree   : BCA  ──►  MCA (planned)
-Location : Kerala, India 🇮🇳
+<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhkZmFzeXo2ZGZ4eGZkY3lxcnFvcXNhN2FpbHk2Y3g0eDZxbjhkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-Focus:
-  - Full-Stack Web Development
-  - Cybersecurity & Network Security
-  - Python Automation & Scripting
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
 
-Currently:
-  - Building Python tools & React apps
-  - Exploring ethical hacking
-  - Open to internships & collabs
+| | |
+|---|---|
+| 🧑‍💻 **Name** | Vaishnav B |
+| 🏷️ **Alias** | 1tzvaish |
+| 🎓 **College** | Amrita Vishwa Vidyapeetham, Kochi |
+| 📚 **Degree** | BCA &nbsp;➜&nbsp; MCA *(planned)* |
+| 📍 **Location** | Kerala, India 🇮🇳 |
+| 💼 **Status** | Open to Internships & Collabs ✅ |
 
-Motto    : "Hack the process. Build the future.
-            Leave no bugs behind."
-```
+</td>
+</tr>
+</table>
+
+<br/>
+
+🔭 &nbsp; Currently building **Python automation tools** & **React web apps**
+🌱 &nbsp; Exploring **Ethical Hacking**, **React ecosystem** & **Cloud basics**
+🔐 &nbsp; Passionate about **Cybersecurity** & **Network Security**
+💬 &nbsp; Ask me about **Python · Web Dev · Linux · Networking**
+⚡ &nbsp; *"Hack the process. Build the future. Leave no bugs behind."*
+
+<br clear="right"/>
 
 <br clear="right"/>
 
